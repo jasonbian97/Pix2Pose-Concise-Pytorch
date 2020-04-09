@@ -1,0 +1,18 @@
+{
+  "backbone":"paper",
+  "dataset_dir": "/home/jasonbian/Desktop/PoseEstimation/dataset",
+  "dataset_names": ["ycbv"],
+  "detection_pipeline": "rcnn",
+  "path_to_detection_pipeline": "/home/jasonbian/Desktop/MaskRCNN/Mask_RCNN" ,
+  "path_to_output": "./bop_result" ,
+  "outlier_th":[0.15,0.25,0.35],
+  "inlier_th":0.15,
+  "norm_factor_fn":"norm_factor.json",
+  "background_imgs_for_training":"",
+  "score_type":2,
+  "task_type":2,
+  "cand_factor":2,
+  "test_target":"test_targets_bop19",
+  "model_dir":"/home/jasonbian/Desktop/PoseEstimation/dataset/ycbv/models",
+  "rendered_figures_dir": "/home/jasonbian/Desktop/PoseEstimation/bop_result/renderedReults"
+}

@@ -1,0 +1,26 @@
+{
+  "backbone": "resnet34",
+  "weights":
+  ["unet/weights/ycbv_model_1_last.pth",
+  "unet/weights/ycbv_model_2_last.pth",
+  "unet/weights/ycbv_model_3_last.pth",
+  "unet/weights/ycbv_model_4_last.pth",
+  "unet/weights/ycbv_model_5_last.pth",
+  "unet/weights/ycbv_model_6_last.pth",
+  "unet/weights/ycbv_model_7_last.pth",
+  "unet/weights/ycbv_model_8_last.pth",
+  "unet/weights/ycbv_model_9_last.pth",
+  "unet/weights/ycbv_model_10_last.pth",
+  "unet/weights/ycbv_model_11_last.pth",
+    "unet/weights/ycbv_model_12_last.pth",
+    "unet/weights/ycbv_model_13_last.pth",
+    "unet/weights/ycbv_model_14_last.pth",
+    "unet/weights/ycbv_model_15_last.pth",
+    "unet/weights/ycbv_model_16_last.pth",
+    "unet/weights/ycbv_model_17_last.pth",
+    "unet/weights/ycbv_model_18_last.pth",
+    "unet/weights/ycbv_model_19_last.pth",
+    "unet/weights/ycbv_model_20_last.pth",
+    "unet/weights/ycbv_model_21_last.pth"
+  ]
+}
